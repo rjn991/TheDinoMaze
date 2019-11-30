@@ -1,6 +1,6 @@
 Hello world!
 
-This is a simple game created using openGL
+This is a simple game which is created by using openGL.
 
 Coded by 
 -Suraj Ponnanna
